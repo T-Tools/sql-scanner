@@ -1,8 +1,8 @@
-# sql-scanner<b>
-<b>Install Method For Termux</b>
-pkg install figlet<b>
-pkg install git<b>
-pkg install php<b>
- git clone https://github.com/T-Tools/sql-scanner<b>
-  cd sql-scanner<b>
+# sql-scanner<br>
+<b>Install Method For Termux</br>
+pkg install figlet<br>
+pkg install git<br>
+pkg install php<br>
+ git clone https://github.com/T-Tools/sql-scanner<br>
+  cd sql-scanner<br>
   php scan.php
